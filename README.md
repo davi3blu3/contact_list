@@ -1,0 +1,1 @@
+A MEAN app for managing contacts, from devcenter.heroku.com tutorial
